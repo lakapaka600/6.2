@@ -6,7 +6,7 @@ int main(void) {
     int punti[]={53,48,45,38,10};
     int i;
     int dim=5;
-    printf("ELENCO SQUADRE SERIE A(FORZA INTER)");
+    printf("ELENCO SQUADRE SERIE A");
     printf("\n");
     printf("SQUADRA  PUNTI");
     printf("\n");
